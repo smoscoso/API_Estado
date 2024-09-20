@@ -1,6 +1,4 @@
-import requests
-import json
-import time
+import requests, json, time
 from pymongo import MongoClient, InsertOne
 from ConfiMongoDB import config
 
